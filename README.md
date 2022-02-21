@@ -1,7 +1,8 @@
 <b><font size="3">Xsun - relay</font></b><br>
 做最高效稳定的矿池中转程序
 -----------------------------
-<img src="http://xsun.ukpool.top/xixi.jpg" /><br>
+<img src="http://xsun.ukpool.top/ppg_jpg/001.jpg" /><br>
+<img src="http://xsun.ukpool.top/ppg_jpg/002.jpg" /><br>
 官网地址：http://xsun.ukpool.top<br>
 程序管理员联系邮箱：xsun@ukyoy.com<br>
 商业合作：admin@ukyoy.com<br>
