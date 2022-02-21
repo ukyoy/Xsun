@@ -1,4 +1,6 @@
 <b><font size="3">Xsun - relay</font></b><br>
+XsunPowRelay<br>
+Xsun pow relay<br>
 做最高效稳定的矿池中转程序
 -----------------------------
 <img src="http://xsun.ukpool.top/ppg_jpg/001.jpg" /><br>
