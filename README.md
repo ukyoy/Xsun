@@ -1,7 +1,9 @@
 <b><font size="3">Xsun - relay</font></b><br>
 XsunPowRelay<br>
 Xsun pow relay<br>
-做最高效稳定的矿池中转程序
+做最高效稳定的矿池中转程序<br>
+独立加密线程（CWB）确保本地信息安全可靠不泄露<br>
+<a href="http://xsun.ukpool.top/2.html" target="_blank">加密搭建请点这里</a> 
 -----------------------------
 <img src="http://xsun.ukpool.top/ppg_jpg/001.jpg" /><br>
 <img src="http://xsun.ukpool.top/ppg_jpg/002.jpg" /><br>
