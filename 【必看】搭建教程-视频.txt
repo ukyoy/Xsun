@@ -1,0 +1,16 @@
+必看篇：
+压缩包内有两个程序，分别为【Powrelay.exe】及【Send.exe】
+
+程序介绍
+Powrelay：矿池中转程序，负责把国内数据中转出去、
+稳定、好用、抽水算法灵活、数据出入方向自带加密线程、支持多币种转发、多重临界值保护、周期自动运行核心及内存优化、
+
+Send：数据加密程序、负责把机器数据打包发送给服务器（relay）
+独立开发CWB加密线程，确保本地机器数据不外泄。
+
+TCP/SSL/CWB的区别（请见压缩包文档）
+
+
+官网：http://xsun.ukpool.top/
+Powrelay搭建教程：http://xsun.ukpool.top/1.html
+Send搭建教程：http://xsun.ukpool.top/2.html
